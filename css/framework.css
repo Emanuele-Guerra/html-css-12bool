@@ -1,44 +1,84 @@
+.col{
+    flex-basis: 100%;
+    max-width: 100%;
+}
 .col1{
-    flex-basis: calc(100% / 12) * 1;
-    max-width: calc(100% / 12) * 1;
+    flex-basis: calc((100% / 12) * 1);
+    max-width: calc((100% / 12) * 1);
 }
 .col2{
-    flex-basis: calc(100% / 12) * 2;
-    max-width: calc(100% / 12) * 2;
+    flex-basis: calc((100% / 12) * 2);
+    max-width: calc((100% / 12) * 2);
 }
 .col3{
-    flex-basis: calc(100% / 12) * 3;
-    max-width: calc(100% / 12) * 3;
+    flex-basis: calc((100% / 12) * 3);
 }
 .col4{
-    flex-basis: calc(100% / 12) * 4;
-    max-width: calc(100% / 12) * 4; 
+    flex-basis: calc((100% / 12) * 4);
+    max-width: calc((100% / 12) * 4); 
 }
 .col5{
-    flex-basis: calc(100% / 12) * 5;
-    max-width: calc(100% / 12) * 5;
+    flex-basis: calc((100% / 12) * 5);
+    max-width: calc((100% / 12) * 5);
 }
 .col6{
-    flex-basis: calc(100% / 12) * 6;
-    max-width: calc(100% / 12) * 6;
+    flex-basis: calc((100% / 12) * 6);
+    max-width: calc((100% / 12) * 6);
 }
 .col7{
-    flex-basis: calc(100% / 12) * 7;
-    max-width: calc(100% / 12) * 7;
+    flex-basis: calc((100% / 12) * 7);
+    max-width: calc((100% / 12) * 7);
 }
 .col8{
-    flex-basis: calc(100% / 12) * 8;
-    max-width: calc(100% / 12) * 8;
+    flex-basis: calc((100% / 12) * 8);
+    max-width: calc((100% / 12) * 8);
 }
 .col9{
-    flex-basis: calc(100% / 12) * 9;
-    max-width: calc(100% / 12) * 9;
+    flex-basis: calc((100% / 12) * 9);
+    max-width: calc((100% / 12) * 9);
 }
 .col10{
-    flex-basis: calc(100% / 12) * 10;
-    max-width: calc(100% / 12) * 10;
+    flex-basis: calc((100% / 12) * 10);
+    max-width: calc((100% / 12) * 10);
 }
 .col11{
-    flex-basis: calc(100% / 12) * 11;
-    max-width: calc(100% / 12) * 11;
+    flex-basis: calc((100% / 12) * 11);
+    max-width: calc((100% / 12) * 11);
+}
+/* COLUMN OFF-SET */
+.off1{
+    margin-left: calc((100% / 12) * 1);
+}
+.off2{
+    margin-left: calc((100% / 12) * 2);
+}
+.off3{
+    margin-left: calc((100% / 12) * 3);
+}
+.off4{
+    margin-left: calc((100% / 12) * 4);
+}
+.off5{
+    margin-left: calc((100% / 12) * 5);
+}
+.off6{
+    margin-left: calc((100% / 12) * 6);
+}
+.off7{
+    margin-left: calc((100% / 12) * 7);
+}
+.off8{
+    margin-left: calc((100% / 12) * 8);
+}
+.off9{
+    margin-left: calc((100% / 12) *9);
+}
+.off10{
+    margin-left: calc((100% / 12) * 10);
+}
+.off11{
+    margin-left: calc((100% / 12) * 11);
+}
+.off12{
+    margin-left: calc((100% / 12) * 12);
 }
